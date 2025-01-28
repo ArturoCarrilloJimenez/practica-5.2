@@ -4,8 +4,6 @@
 
 Para instalar Docker y Docker Compose en Ubuntu ejecutaremos los siguientes comandos:
 
-⚠️** Nota:** Es importante tener en cuenta que estos comandos se han probado en una máquina virtual de AWS con Ubuntu 20.04.
-
 1. Actualizamos el sistema
 
 ```bash
