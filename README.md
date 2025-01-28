@@ -90,3 +90,7 @@ environment:
       DOMAINS: "${DOMAIN} -> http://wordpress:8080"
       STAGE: "production"
 ````
+
+### Resultado
+
+![wordpress](./Captura%20de%20pantalla%202025-01-27%20195419.png)
